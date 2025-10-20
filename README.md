@@ -24,7 +24,6 @@ Este é um projeto de piano virtual desenvolvido como parte do desafio de projet
 - 🔊 **Controle de volume** - ajuste o volume através de um slider
 - 👁️ **Toggle de visibilidade** - mostre ou oculte as letras das teclas
 - 🎨 **Feedback visual** - animação ao pressionar as teclas
-- 📱 **Design responsivo** - interface elegante e moderna
 
 ## 🎮 Como Usar
 
